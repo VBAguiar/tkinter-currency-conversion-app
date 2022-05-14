@@ -1,2 +1,4 @@
 # tkinter-currency-conversion-app
-currency conversion app
+Currency Conversion app
+
+<img href="image.png" alt="Image">
